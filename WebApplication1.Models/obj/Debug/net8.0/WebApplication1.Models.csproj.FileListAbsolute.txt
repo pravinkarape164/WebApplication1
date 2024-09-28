@@ -1,0 +1,11 @@
+D:\Development_Pravin\WebApplication1\WebApplication1.Models\bin\Debug\net8.0\WebApplication1.Models.deps.json
+D:\Development_Pravin\WebApplication1\WebApplication1.Models\bin\Debug\net8.0\WebApplication1.Models.dll
+D:\Development_Pravin\WebApplication1\WebApplication1.Models\bin\Debug\net8.0\WebApplication1.Models.pdb
+D:\Development_Pravin\WebApplication1\WebApplication1.Models\obj\Debug\net8.0\WebApplication1.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development_Pravin\WebApplication1\WebApplication1.Models\obj\Debug\net8.0\WebApplication1.Models.AssemblyInfoInputs.cache
+D:\Development_Pravin\WebApplication1\WebApplication1.Models\obj\Debug\net8.0\WebApplication1.Models.AssemblyInfo.cs
+D:\Development_Pravin\WebApplication1\WebApplication1.Models\obj\Debug\net8.0\WebApplication1.Models.csproj.CoreCompileInputs.cache
+D:\Development_Pravin\WebApplication1\WebApplication1.Models\obj\Debug\net8.0\WebApplication1.Models.dll
+D:\Development_Pravin\WebApplication1\WebApplication1.Models\obj\Debug\net8.0\refint\WebApplication1.Models.dll
+D:\Development_Pravin\WebApplication1\WebApplication1.Models\obj\Debug\net8.0\WebApplication1.Models.pdb
+D:\Development_Pravin\WebApplication1\WebApplication1.Models\obj\Debug\net8.0\ref\WebApplication1.Models.dll
